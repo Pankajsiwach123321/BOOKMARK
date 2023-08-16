@@ -5,6 +5,6 @@ console.log(nav)
 console.log(menubar)
 
 nav.addEventListener("click", function () {
-    menubar.classList.toggle("left")
+    menubar.classList.toggle("left-0")
 
 })
